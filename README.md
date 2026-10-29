@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hello, I'm Josh! </h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>Certifications</h2>
+
+- CCNA+
+
+<h2> 🤳 Connect with me:</h2>
+[instagram]: https://www.instagram.com/juanduan12/
+[linkedin]: www.linkedin.com/in/giancarlo-duan
 
 <!--
-**Juanduan1/Juanduan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
